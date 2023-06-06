@@ -5,3 +5,8 @@ h1 {
 h2 {
     text-align: justify;
 }
+
+p { 
+    text-align: justify;
+    background: crimson;
+}
